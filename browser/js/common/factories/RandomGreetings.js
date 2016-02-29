@@ -15,6 +15,7 @@ app.factory('RandomGreetings', function () {
         'Hello, 1601!',
         'こんにちは、ユーザー様。',
         'Welcome. To. WEBSITE.',
+        ':)',
         ':(',
         'Yes, I think we\'ve met before.',
         'Gimme 3 mins... I just grabbed this really dope frittata',
