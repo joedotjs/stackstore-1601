@@ -16,6 +16,7 @@ app.factory('RandomGreetings', function () {
         'こんにちは、ユーザー様。',
         'Welcome. To. WEBSITE.',
         ':)',
+        ':(',
         'Yes, I think we\'ve met before.',
         'Gimme 3 mins... I just grabbed this really dope frittata',
         'If Cooper could offer only one piece of advice, it would be to nevSQUIRREL!',
